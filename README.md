@@ -1,2 +1,2 @@
-# bokepprank
-bokepprank
+A live demo of the project is available at [bokepprank](https://bokepprank.pages.dev).
+Fork the [repository](https://github.com/polastimirsa) on GitHub.
